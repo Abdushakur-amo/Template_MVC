@@ -2,7 +2,7 @@
 
 return [
 	'host' => 'localhost',
-	'name' => 'abs',
+	'name' => 'webamo_admin',
 	'user' => 'root',
 	'password' => '',
 ];
